@@ -1,6 +1,8 @@
 # Joanna AI Coursework
 
-AI/ML coursework repository containing lecture notes, coding exercises, implementations, and learning resources from the Joanna AI classes.
+AI/ML coursework repository for Joanna, conducted by Himanshu Singh under ModernAgeCoders.
+
+This repository contains lecture notes, coding exercises, implementations, assignments, and learning resources covered throughout the course.
 
 ---
 
@@ -32,3 +34,4 @@ joanna-ai-coursework/
 ├── syllabus.png           # Course syllabus and schedule
 │
 └── README.md
+```
